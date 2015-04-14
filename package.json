@@ -1,0 +1,19 @@
+{
+  "name": "css-reset",
+  "version": "1.0.0",
+  "description": "a javascript css reset file",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/blairanderson/css-reset"
+  },
+  "author": "Blair Anderson <Blair81@gmail.com> (http://www.blairanderson.co/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blairanderson/css-reset/issues"
+  },
+  "homepage": "https://github.com/blairanderson/css-reset"
+}
